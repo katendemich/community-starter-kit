@@ -33,6 +33,5 @@ firstPRMergeComment: >
 # It is recommended to include as many gifs and emojis as possible!
 ```
 
-### Example Messages
-
-CONFIGS PLACEHOLDER
+### Example
+Welcome to the creation of user documention
